@@ -93,7 +93,7 @@ function App() {
         )}
       </section>
       <footer></footer>
-    </div>
+    </div> 
   )
 }
 
